@@ -9,7 +9,7 @@ collections:
     permalink: /:path/
 
 # Title
-name: Permitting Name (edit in _config.yml)
+name: Headline for Permitting Site (edit in _config.yml)
 subtitle: 
 
 # When using this template with a project page set the baseurl to '/project-name'
