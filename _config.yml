@@ -34,8 +34,20 @@ navigation:
 - text: Home
   url: ./
   internal: true
-- text: Example Page
-  url: example_page/
+- text: Foundation
+  url:  /foundation
+  internal: true
+- text: Framing the HOST Pilot
+  url:  pilot_frame
+  internal: true
+- text: Strategy
+  url: strategy
+  internal: true
+- text: How Host Fits In
+  url: how_host_fits_in
+  internal: true 
+- text: Designing HOST
+  url: designing_host
   internal: true
 # - text: Another Page
 #   url: these are linked in the _config.yml file
